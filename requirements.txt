@@ -3,3 +3,5 @@ networkx
 pydantic
 textual
 matplotlib
+fastapi
+uvicorn
